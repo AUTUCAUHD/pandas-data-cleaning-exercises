@@ -1,0 +1,5 @@
+   CustID     FullName     City  OrderTotal     Status
+0     100     John Doe    Miami       250.0  completed
+1     101   Jane Smith    Miami       310.0  completed
+2     102  Carlos Diaz  Orlando         NaN        NaN
+3     104     Mia Chen  Orlando         NaN        NaN
