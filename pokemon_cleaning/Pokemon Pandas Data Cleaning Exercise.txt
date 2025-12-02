@@ -1,0 +1,5 @@
+        Name     Type1   Type2  Power
+0  Charizard      Fire  Flying  534.0
+2  Blastoise     Water    None  530.0
+4    Pikachu  Electric    None  320.0
+6   Venusaur     Grass  Poison  525.0
