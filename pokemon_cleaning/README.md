@@ -12,4 +12,4 @@ Skills Practiced
 7. Filtering rows with '.dropna()'
 
 Output
-See 'Pokemon Pandas Data Cleaning Exercise.txt'
+See 'sample_output.txt'
