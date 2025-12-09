@@ -23,6 +23,13 @@ Three data-cleaning exercises using Python.
     - Normalizing types
     - Drops duplicates
     - Validates required fields
+
+4. Customer Data Cleaning
+    - Cleans messy dataset
+    - Handles customer IDs
+    - Numeric conversion
+    - Handles invalid emails
+    - Validates required fields
   
 Skills Practiced:
     1. ETL
