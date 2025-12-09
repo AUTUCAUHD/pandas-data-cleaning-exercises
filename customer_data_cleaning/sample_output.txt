@@ -1,0 +1,4 @@
+   CustomerID        Name              Email      City  SignupDaysAgo
+0       101.0    John Doe   john@example.com     Miami             10
+1       102.0  Jane Smith  jane@example.com   New York             25
+5       105.0  Mary Jones   mary@example.com  New York             15
