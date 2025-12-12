@@ -1,0 +1,7 @@
+         Employee     Sales  HoursWorked  SalesRank  Efficiency
+Region                                                         
+East   0    Alice  120000.0        160.0          1  750.000000
+       1      Bob   90000.0        150.0          2  600.000000
+North  4     Evan   50000.0        120.0          1  416.666667
+West   2     Carl   82500.0        140.0          1  589.285714
+       3     Dana   75000.0          0.0          2    0.000000
