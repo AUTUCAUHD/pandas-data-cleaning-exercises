@@ -1,6 +1,6 @@
 # pandas-data-cleaning-exercises
 
-Five data-cleaning exercises using Python.
+Six data-cleaning exercises using Python.
 
 1. Customers & Orders Data Cleaning + Merge
     - Cleans messy datasets
@@ -41,7 +41,20 @@ Five data-cleaning exercises using Python.
     - Fixes inconsistent spellings
     - Helper functions
     - Sorting
-  
+
+6. Sales Data Cleaning
+    - Cleans 3 messy datasets
+    - Handles employee IDs
+    - Numeric conversion
+    - .groupby()
+    - .apply()
+    - .assign()
+    - .transform()
+    - .agg()
+    - Helper functions
+    - sorting
+    - Merges 3 DataFrames into 1
+
 Skills Practiced:
     1. ETL
     2. Regex
