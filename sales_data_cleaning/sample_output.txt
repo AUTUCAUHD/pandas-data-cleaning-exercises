@@ -1,0 +1,6 @@
+              EmpID Employee  DealsClosed   Revenue  HoursWorked  RevenuePerHour  DealsPerHour  DeptAvgRevenue  RankInDept TopPerformer
+Department                                                                                                                             
+IT         3  104.0      Dan         25.0  120000.0        160.0           750.0      0.156250         97500.0           1          Yes
+           2  103.0     Cara          9.0   75000.0        150.0           500.0      0.060000         97500.0           2           No
+SALES      1  102.0      Bob         18.0   85000.0        170.0           500.0      0.105882         72500.0           1          Yes
+           0  101.0    Alice         12.0   60000.0        160.0           375.0      0.075000         72500.0           2           No
