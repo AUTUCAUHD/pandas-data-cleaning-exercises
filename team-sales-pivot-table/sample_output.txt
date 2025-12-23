@@ -1,0 +1,4 @@
+      mean_Jan  mean_Feb  mean_Mar  sum_Jan  sum_Feb  sum_Mar
+team                                                         
+A        110.0     150.0       NaN    220.0    150.0      NaN
+B         80.0      90.0     110.0     80.0     90.0    110.0
