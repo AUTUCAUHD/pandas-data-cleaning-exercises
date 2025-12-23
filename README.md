@@ -1,6 +1,6 @@
 # pandas-data-cleaning-exercises
 
-Six data-cleaning exercises using Python.
+Seven data-cleaning exercises using Python.
 
 1. Customers & Orders Data Cleaning + Merge
     - Cleans messy datasets
@@ -55,15 +55,24 @@ Six data-cleaning exercises using Python.
     - sorting
     - Merges 3 DataFrames into 1
 
+7. Team Sales Pivot Table
+    - Clean messy dataset
+    - Numeric conversion
+    - Ordering
+    - Flattening columns
+    - reindex()
+
 Skills Practiced:
-    1. ETL
-    2. Regex
-    3. Handling missing data
-    4. Numeric conversion
-    5. Date parsing
-    6. Validating fields
-    7. Dataset merging
-    8. Pandas filtering, replacement, and deduplication
-    9. Sorting
-    10. .groupby(), .apply(), .assign()
-    11. Helper functions
+1. ETL
+2. Regex
+3. Handling missing data
+4. Numeric conversion
+5. Date parsing
+6. Validating fields
+7. Dataset merging
+8. Pandas filtering, replacement, and deduplication
+9. Sorting
+10. .groupby(), .apply(), .assign()
+11. Helper functions
+12. pivot_table()
+13. reindex()
