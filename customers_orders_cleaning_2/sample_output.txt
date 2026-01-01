@@ -1,0 +1,4 @@
+   cust_id  total_amount  avg_amoung  total_items  avg_price_per_item customer_name region
+0     10.0        100.50      100.50          2.0               50.25          Acme   East
+1     11.0        200.00      200.00          3.0               66.67        BetaCo   West
+2     12.0         75.25       75.25          2.0               37.62      CoreMart   East
